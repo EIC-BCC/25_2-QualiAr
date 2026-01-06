@@ -4,7 +4,7 @@
 **Alunos:** João Henrique dos Reis Terêncio; Bianca Gallicchio Tavares
 **Semestre de Defesa:** 2025-2 (defesa em 19/12/2025)
 
-[PDF do TCC](./tcc.pdf) TODO
+[PDF do TCC]([./tcc.pdf](https://github.com/EIC-BCC/25_2-QualiAr/blob/main/Artigo/TCC.pdf)) 
 
 # TL;DR
 
